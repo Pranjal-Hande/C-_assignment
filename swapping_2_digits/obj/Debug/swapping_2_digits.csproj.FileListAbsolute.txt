@@ -1,0 +1,8 @@
+C:\Users\pranj\source\repos\swapping_2_digits\bin\Debug\swapping_2_digits.exe.config
+C:\Users\pranj\source\repos\swapping_2_digits\bin\Debug\swapping_2_digits.exe
+C:\Users\pranj\source\repos\swapping_2_digits\bin\Debug\swapping_2_digits.pdb
+C:\Users\pranj\source\repos\swapping_2_digits\obj\Debug\swapping_2_digits.csproj.AssemblyReference.cache
+C:\Users\pranj\source\repos\swapping_2_digits\obj\Debug\swapping_2_digits.csproj.SuggestedBindingRedirects.cache
+C:\Users\pranj\source\repos\swapping_2_digits\obj\Debug\swapping_2_digits.csproj.CoreCompileInputs.cache
+C:\Users\pranj\source\repos\swapping_2_digits\obj\Debug\swapping_2_digits.exe
+C:\Users\pranj\source\repos\swapping_2_digits\obj\Debug\swapping_2_digits.pdb

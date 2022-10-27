@@ -1,0 +1,8 @@
+C:\Users\pranj\source\repos\area_circumference_of_circle\bin\Debug\area_circumference_of_circle.exe.config
+C:\Users\pranj\source\repos\area_circumference_of_circle\bin\Debug\area_circumference_of_circle.exe
+C:\Users\pranj\source\repos\area_circumference_of_circle\bin\Debug\area_circumference_of_circle.pdb
+C:\Users\pranj\source\repos\area_circumference_of_circle\obj\Debug\area_circumference_of_circle.csproj.AssemblyReference.cache
+C:\Users\pranj\source\repos\area_circumference_of_circle\obj\Debug\area_circumference_of_circle.csproj.SuggestedBindingRedirects.cache
+C:\Users\pranj\source\repos\area_circumference_of_circle\obj\Debug\area_circumference_of_circle.csproj.CoreCompileInputs.cache
+C:\Users\pranj\source\repos\area_circumference_of_circle\obj\Debug\area_circumference_of_circle.exe
+C:\Users\pranj\source\repos\area_circumference_of_circle\obj\Debug\area_circumference_of_circle.pdb
